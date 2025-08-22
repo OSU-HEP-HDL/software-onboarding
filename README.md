@@ -6,6 +6,7 @@ I want you to clone this repo, make your own branch, add a professional photo an
 Add your photo into the `/assets` folder
 
 # Software Team
+## Manager
 
 ![Dr. Jacob E. Crosby](assets/headshot1.jpg)
 

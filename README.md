@@ -11,3 +11,5 @@ Add your photo into the `/assets` folder
 ![Dr. Jacob E. Crosby](assets/headshot1.jpg)
 
 Hi! My name is Dr. Jacob E. Crosby. I am currently the manager of the Software Team at the OSU High Energy Physics Hardware Development Lab. I graduate from OSU with my PhD in High Energy Physics. The title of my dissertation is"SEARCHES FOR NEW PHYSICS USING UNSUPERVISED MACHINE LEARNING FOR ANOMALY DETECTION AT THE ATLAS DETECTOR AND THE DEVELOPMENT OF PARTICLE IDENTIFICATION ALGORITHMS FOR THE HL-LHC". I currently live in Michigan with my wife and a beautiful baby boy. Which means I work 100% remote!
+
+### Research Software Engineer

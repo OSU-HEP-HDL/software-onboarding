@@ -26,3 +26,14 @@ learn in college to better the lives of humanity, and discover more about what m
 Our work aligns perfectly with my goals and passions. I am grateful for this opportunity and looking forward to seeing what our teams come up with. 
 
 ## UI and Machine Learning
+
+## Intern
+![Ademir Hall](assets/Ademir_headshot.jpg)
+
+Hi! My name is Ademir Hall and I'm also one of the software team's interns helping with the ATLAS project!
+I am currently a Junior working to get a bachelor's degree in Computer Science as well as a minor in Applied Music.
+I have a love for problem solving and logics which have helped me far as a CS major. As well as having a mathematical mind set, I also have a love for music and music performance. 
+I've played piano and percussion for over 10 years and have stayed active in various OSU music ensembles as a fun pastime.
+Being able to logically yet creatively problem solve has been a blessing in all what I do and excites me in wherever I get to apply these skills.
+
+## Backend Development
